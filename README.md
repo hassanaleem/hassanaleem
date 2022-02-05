@@ -1,17 +1,17 @@
 ## Hi there 👋
 
 I am a undergraduate Computer Science student at Lahore University of Management Sciences , Paksitan.
-<!-- 
+
 💻 Passionate about Machine learning, Computer Vision and Web development.
 
- -->
+🌱 I’m currently learning Andorid Development using React Native
 <!-- 
  -->
 
 
 ### 👨🏻‍💻 Technologies:
 
-<img src=tach.png alt="Technologies" width="400">
+<img src=logos.png alt="Technologies" width="400">
 
 ### Get in touch!
 
@@ -22,11 +22,9 @@ I am a undergraduate Computer Science student at Lahore University of Management
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
