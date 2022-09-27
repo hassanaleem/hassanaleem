@@ -4,7 +4,6 @@ I am a undergraduate Computer Science student at Lahore University of Management
 
 💻 Passionate about Machine learning, Computer Vision and Web development.
 
-🌱 I’m currently learning Andorid Development using React Native
 <!-- 
  -->
 
