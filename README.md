@@ -2,8 +2,6 @@
 
 I am a undergraduate Computer Science student at Lahore University of Management Sciences , Paksitan.
 
-💻 Passionate about Machine learning, Computer Vision and Web development.
-
 <!-- 
  -->
 
