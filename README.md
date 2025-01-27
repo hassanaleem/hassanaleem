@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a undergraduate Computer Science student at Lahore University of Management Sciences , Paksitan.
+I am a PhD Candidate at Virginia Tech.
 
 <!-- 
  -->
@@ -12,7 +12,7 @@ I am a undergraduate Computer Science student at Lahore University of Management
 
 ### Get in touch!
 
-📧 Email: [hassanaleem9@gmail.com](mailto:hassanaleem9@gmail.com)  
+📧 Email: [hassanaleem9@gmail.com](mailto:hassanaleem9@gmail.com) 
 
 <!--
 
