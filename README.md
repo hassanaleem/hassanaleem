@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I am a PhD Candidate at Virginia Tech, working at Programming Language and Compilers Lab to improve program analysis techniques and program execution. 
+I’m a PhD candidate in Computer Science at Virginia Tech’s Programming Languages & Compilers Lab, researching program-analysis and execution-optimization techniques.
 
+I am also batman because saving Gotham is much easier than a PhD
 <!-- 
  -->
 
