@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a PhD Candidate at Virginia Tech.
+I am a PhD Candidate at Virginia Tech, working at Programming Language and Compilers Lab to improve program analysis techniques and program execution. 
 
 <!-- 
  -->
